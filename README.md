@@ -2,14 +2,14 @@
 
 ## 👀 I’m interested in:
 - Java and Spring Boot development
-- Web development
+- Full stack Web development
 - Cyber Security
 - Artificial Intelligence
 
 ## 🌱 I’m currently learning:
 - Advanced Spring Boot techniques
 - Modern web development frameworks like React
-- Database management with MongoDB and Apache Cassandra
+- Database management with MongoDB and MY Sql
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source Java projects
