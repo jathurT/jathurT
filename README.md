@@ -1,71 +1,41 @@
-# 👋 Hi, I’m @jathurT
+![Header](./github-header-image.png)
+<h1 align="center">Hi 👋, I'm Jathurshan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2OtIwv6biKVidosMz78pJO&ust=1721795977281000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCat_6rvIcDFQAAAAAdAAAAABAQ">
 
-## 👀 I’m interested in:
-- Java and Spring Boot development
-- Full stack Web development
-- Cyber Security
-- Artificial Intelligence
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jathurt&label=Profile%20views&color=0e75b6&style=flat" alt="jathurt" /> </p>
 
-## 🌱 I’m currently learning:
-- Advanced Spring Boot techniques
-- Modern web development frameworks like React
-- Database management with MongoDB and MY Sql
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jathurt" alt="jathurt" /></a> </p>
 
-## 💞️ I’m looking to collaborate on:
-- Open-source Java projects
-- Web development projects utilizing modern front-end frameworks
-- Innovative solutions in cyber security and AI
+- 🌱 I’m currently learning **Advanced Spring Boot techniques, Modern web development frameworks like React**
 
-## 📫 How to reach me:
-- Email: ktmjathur2001@gmail.com
-- LinkedIn: [Jathurshan Thadchanamoorthy](https://www.linkedin.com/in/jathurshan2920)
+- 👨‍💻 All of my projects are available at [https://github.com/jathurT](https://github.com/jathurT)
 
-## 😄 Pronouns:
-- He/Him
+- 💬 Ask me about **Spring Boot, React**
 
-## ⚡ Fun fact:
-- I have a strong interest in powerlifting and weightlifting, and I enjoy participating in competitions!
+- 📫 How to reach me **ktmjathur2001@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M7EVN0x571BxQaSg8HT_IIGJ6ZV48A3a/view](https://drive.google.com/file/d/1M7EVN0x571BxQaSg8HT_IIGJ6ZV48A3a/view)
 
-## 🛠️ Projects and Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jathurt" height="30" width="40" /></a>
+  <a href="https://kaggle.com/jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jathurt" height="30" width="40" /></a>
+  <a href="https://fb.com/jathurshan tc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathurshan tc" height="30" width="40" /></a>
+  <a href="https://instagram.com/jathurshan_tc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jathurshan_tc" height="30" width="40" /></a>
+  <a href="https://medium.com/@jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jathurt" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/jathur t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jathur t" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/ktmjathur2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ktmjathur2001" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/eg/2021/4568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eg/2021/4568" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ktmjathur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ktmjathur2001" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jathurt" height="30" width="40" /></a>
+</p>
 
-### Key Projects
-1. **Retail Billing Automation System**
-   - Integrated robust Data Structures and Algorithms (DSA) principles for efficient file handling.
-   - Tools: Visual Studio
-   - Key Areas: OOP, DSA, File Handling
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-2. **Blood Bank Management System**
-   - Engineered a system for seamless blood donation, inventory management, and donor tracking.
-   - Tools: SQL
-   - Key Areas: Relational Database Model
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jathurt&show_icons=true&locale=en&layout=compact" alt="jathurt" /></p>
 
-3. **Dental Clinic Management System (Ongoing)**
-   - Developing a system to streamline patient appointments, manage records, and optimize workflow.
-   - Tools: Visual Studio Code, Java Spring Boot, React, MongoDB
-   - Key Areas: Backend, Front-end, Database
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jathurt&show_icons=true&locale=en" alt="jathurt" /></p>
 
-4. **Fortuna Rex (Personal Finance Tracker Web Application)**
-   - Developed a web application for intuitive financial management.
-   - Tools: Visual Studio Code
-   - Key Areas: Front-End, TailWind
-
-### Technical Skills
-- **Languages:** C, C++, C#, Java, JavaScript
-- **Database:** MySQL, MongoDB, Apache Cassandra, Neo4J
-- **Tools & IDEs:** VS Code, IntelliJ IDEA, Visual Studio, Figma, 3D Max
-
-### Affiliations
-- IESL Student Member
-- EIA Member
-- AAE Member
-
-### Extra-Curricular Activities
-- Participated in HaXtreme 2023 and Red Cypher 2024 competitions organized by IEEE Computer Society of Faculty of Engineering, University of Ruhuna.
-- Attended leadership camp organized by the Career Guidance Unit of Faculty of Engineering, University of Ruhuna in 2022.
-- Expertise in powerlifting and weightlifting techniques.
-
----
-
-Feel free to reach out for collaborations or just to connect!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jathurt&" alt="jathurt" /></p>
