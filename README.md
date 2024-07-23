@@ -17,6 +17,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jathurt" alt="jathurt" />
@@ -26,10 +28,10 @@
 <p align="left">
   <a href="https://linkedin.com/in/jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jathurt" height="30" width="40" /></a>
   <a href="https://kaggle.com/jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jathurt" height="30" width="40" /></a>
-  <a href="https://fb.com/jathurshan tc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathurshan tc" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/jathurshan.thadchanamoorthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jathurshan tc" height="30" width="40" /></a>
   <a href="https://instagram.com/jathurshan_tc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jathurshan_tc" height="30" width="40" /></a>
   <a href="https://medium.com/@jathurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jathurt" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/jathur t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jathur t" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCNaWc43LO7Tqr9mcsNB5Tmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jathur t" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/ktmjathur2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ktmjathur2001" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/eg/2021/4568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eg/2021/4568" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ktmjathur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ktmjathur2001" height="30" width="40" /></a>
