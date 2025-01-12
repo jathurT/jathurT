@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jathurT](https://github.com/jathurT)
 - 💬 Ask me about **Spring Boot, React**
 - 📫 How to reach me **ktmjathur2001@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M7EVN0x571BxQaSg8HT_IIGJ6ZV48A3a/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZsLH_UngTfcbwcMiaKFQsQY-gl9S4Zag/view?usp=sharing)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jathurt&label=Profile%20views&color=0e75b6&style=flat" alt="jathurt" />
