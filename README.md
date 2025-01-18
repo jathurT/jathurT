@@ -9,9 +9,9 @@
 
 <img align="right" alt="coding" width="400" src="./img.gif">
 
-- 🌱 I’m currently learning **Advanced Spring Boot techniques and modern web development frameworks like React**
+- 🌱 I’m currently learning **Advanced Spring Boot, Microservice techniques and modern web development frameworks like React**
 - 👨‍💻 All of my projects are available at [https://github.com/jathurT](https://github.com/jathurT)
-- 💬 Ask me about **Spring Boot, React**
+- 💬 Ask me about **Java, Spring Boot, React**
 - 📫 How to reach me **ktmjathur2001@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZsLH_UngTfcbwcMiaKFQsQY-gl9S4Zag/view?usp=sharing)
 
