@@ -53,5 +53,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jathurT&theme=dark" height="180em" />
+<img align="center" src="https://leetcard.jacoblin.cool/jathurT?ext=heatmap" height="180em" />
 </div>
 
