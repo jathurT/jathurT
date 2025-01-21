@@ -48,11 +48,12 @@
 <div align="center">
 <a href="https://github.com/jathurT">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jathurT&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="jathurt" />
+<img align="center" src="https://leetcard.jacoblin.cool/jathurT?ext=heatmap" height="180em"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jathurT&theme=dark&hide_border=true" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jathurT&theme=dark" height="180em" />
-<img align="center" src="https://leetcard.jacoblin.cool/jathurT?ext=heatmap" height="180em" width="600" />
+
 </div>
 
