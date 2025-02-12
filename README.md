@@ -53,7 +53,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jathurT&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jathurT&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jathurT&theme=dark" height="180em" />
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jathurT&custom_title=Jathur's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C0C0C0&line=808080&point=FF5733&area_color=FFFFFF&title_color=FFFFFF&area=true" height="180em" />
 </div>
 
